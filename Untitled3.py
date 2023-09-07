@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 # Para el manejo de los datos
 import sqlite3 as sq
 import pandas as pd
